@@ -6,7 +6,7 @@ This project is a Traffic Sign Recognition System that utilizes a Convolutional 
 ---
 
 ## Project Details
-## **Group Memebers**
+### **Group Memebers**
 | **Name**           | **ID**          | **Section** | 
 |--------------------|-----------------|-------------|
 | Bisrat Yared       | UGR/22534/13    | 3           |
@@ -17,7 +17,7 @@ This project is a Traffic Sign Recognition System that utilizes a Convolutional 
 ---
 ![Description of the Image](/Figure_1.png)
 
-## Features
+### Features
 
 1. **Traffic Sign Recognition**:
    - Identifies traffic signs using a trained CNN model.
@@ -33,13 +33,13 @@ This project is a Traffic Sign Recognition System that utilizes a Convolutional 
 
 ---
 
-## Installation
+### Installation
 
-### Prerequisites
+#### Prerequisites
 - Python 3.8+
 - Virtual environment (recommended)
 
-### Required Libraries
+#### Required Libraries
 Install dependencies using pip:
 ```bash
 pip install -r requirements.txt
