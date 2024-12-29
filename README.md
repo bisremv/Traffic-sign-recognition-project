@@ -15,7 +15,7 @@ This project is a Traffic Sign Recognition System that utilizes a Convolutional 
 | Mitke bezabeh      | UGR/23919/13    | 3           |
 
 ---
-##Accuracy
+### Accuracy
 ![CV accuracy](/Figure_1.png)
 
 ### Features
