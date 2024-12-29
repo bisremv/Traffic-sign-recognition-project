@@ -10,11 +10,12 @@ This project is a Traffic Sign Recognition System that utilizes a Convolutional 
 | **Name**          | **ID**          | **Section** | **Group**         |
 |--------------------|-----------------|-------------|-------------------|
 | Bisrat Yared       | UGR/22534/13    | 3           | Group Project     |
-| Bemlak Yared       | UGR/22534/13    | 3           | Group Project     |
-| Bemlak Yared       | UGR/22534/13    | 3           | Group Project     |
-| Bemlak Yared       | UGR/22534/13    | 3           | Group Project     |
+| Bamklack Yared     | UGR/22534/13    | 3           | Group Project     |
+| Bamklack Yared     | UGR/22534/13    | 3           | Group Project     |
+| Bamklack Yared     | UGR/22534/13    | 3           | Group Project     |
 
 ---
+![Description of the Image](path/to/image.jpg)
 
 ## Features
 
