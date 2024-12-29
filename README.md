@@ -12,10 +12,11 @@ This project is a Traffic Sign Recognition System that utilizes a Convolutional 
 | Bisrat Yared       | UGR/22534/13    | 3           |
 | Beamlak Tadesse    | UGR/22680/13    | 3           |
 | Matyas Sina        | UGR/22646/13    | 3           |
-| Mitke bezabeh      | UGR/...../13    | 3           |
+| Mitke bezabeh      | UGR/23919/13    | 3           |
 
 ---
-![Description of the Image](/Figure_1.png)
+##Accuracy
+![CV accuracy](/Figure_1.png)
 
 ### Features
 
